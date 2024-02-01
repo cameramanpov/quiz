@@ -3,18 +3,18 @@ var score = 0;
 
 var questions = [
     {
-        question: "Quel est le plus grand mammifère terrestre ?",
-        answers: ["Éléphant", "Girafe", "Rhinocéros", "Hippopotame"],
-        correctAnswer: "Éléphant"
+        question: "Quel est le plus gros mammifère terrestre ?",
+        answers: ["Éléphant", "Girafe", "Rhinocéros", "Hippopotame", "Ta mére"],
+        correctAnswer: "ta mére"
     },
     {
         question: "Combien de continents y a-t-il sur Terre ?",
-        answers: ["5", "6", "7", "8"],
+        answers: ["5", "6", "7", "8","autant que de bourlet a ta maman"],
         correctAnswer: "7"
     },
     {
         question: "Quel est le plus grand océan du monde ?",
-        answers: ["Océan Atlantique", "Océan Indien", "Océan Pacifique", "Océan Arctique"],
+        answers: ["Océan Atlantique", "Océan Indien", "Océan Pacifique", "Océan Arctique","océan de ta mére"],
         correctAnswer: "Océan Pacifique"
     }
 ];
